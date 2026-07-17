@@ -1,0 +1,7 @@
+1. (Prioridad Alta) Como joven de la red ambiental quiero registrar una alerta sobre daños en el territorio para dejar evidencia inmediata del problema.
+
+2. (Prioridad Alta) Como coordinador del colectivo quiero recibir una notificación cuando entre un nuevo reporte para organizar la respuesta rápidamente.
+
+3. (Prioridad Media) Como líder comunitario quiero consultar el historial de incidencias registradas para hacerle seguimiento y tomar decisiones que fortalezcan nuestra resiliencia biocultural.
+
+4. (Prioridad Baja) Como facilitador de los talleres quiero exportar un resumen de los casos reportados para incluir esos datos reales en el fanzine de memoria territorial.

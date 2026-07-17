@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog haría primero?
+1. Que el joven de la red ambiental pueda registrar una alerta sobre daños en el territorio.
+2. Que el coordinador del colectivo reciba una notificación inmediata de ese nuevo reporte.
+
+¿Por qué son las más importantes?
+Porque son el corazón de nuestra herramienta de veeduría. Si los pelados no pueden registrar la incidencia desde la vereda, el resto del sistema no sirve para nada. Además, asegurar la notificación inmediata es lo que nos permite reaccionar a tiempo y organizarnos como red frente a cualquier afectación ambiental o de orden público. 
+
+¿Qué significa para mí que una tarea esté "terminada"?
+Para dar una tarea por cerrada y lista para la comunidad, debe cumplir con estos 3 criterios:
+1. Funciona correctamente y sin errores en nuestro servidor.
+2. Ya la probamos simulando un caso real (por ejemplo, enviando una alerta de prueba sobre un botadero cerca al río).
+3. Todo el código quedó guardado y registrado de forma segura en nuestro repositorio de Git.

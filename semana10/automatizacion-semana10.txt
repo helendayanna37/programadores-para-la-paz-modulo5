@@ -1,0 +1,9 @@
+¿Qué evento activa el flujo?
+El disparador (trigger) sería cuando un joven de nuestra red registra una nueva alerta de afectación territorial en la plataforma (por ejemplo, el ingreso de maquinaria pesada no autorizada cerca al río).
+
+¿Qué mensaje se enviaría a Telegram?
+El flujo mandaría este mensaje automático a nuestro grupo de coordinación:
+"¡Alerta Territorial! Se ha registrado una nueva incidencia en el sistema sobre riesgo ambiental o social. Por favor, equipo coordinador, ingresemos a la plataforma para revisar los detalles y evaluar las acciones a tomar."
+
+¿Qué información NO debería enviarse por seguridad?
+Para proteger a la comunidad, por Telegram jamás enviaría el nombre ni la cédula del pelado que hace el reporte. Tampoco incluiría su número de celular ni la ubicación exacta (coordenadas) desde donde envió la alerta. Toda esa información sensible debe quedarse cifrada y guardada únicamente en nuestro servidor, para que solo la veamos las personas autorizadas.
