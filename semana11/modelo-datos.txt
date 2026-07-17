@@ -1,0 +1,22 @@
+Entidad: Obra Inconclusa
+
+Campos principales:
+- id
+- nombre_proyecto: Puente de la quebrada, Colegio veredal
+- tiempo_abandono: 6 meses, 2 años
+- afectacion_comunitaria: riesgo para los estudiantes, aislamiento en invierno
+- fecha_reporte
+
+Propósito:
+Documentar y visibilizar esos proyectos que dejaron tirados en el territorio. La idea es tener una evidencia clara y estructurada para exigirle respuestas a la administración local o a los contratistas, evitando que el problema quede en el olvido.
+
+Entidad: Firma de Veeduría
+
+Campos principales:
+- id
+- obra_id
+- fecha_apoyo
+- sector_o_vereda
+
+Propósito:
+Agrupar el respaldo de los vecinos y los jóvenes que se ven afectados por esa obra frenada para demostrar que es un reclamo colectivo. Sigo aplicando el principio de recolección mínima: pido solo la vereda para darle peso territorial al reclamo, sin necesidad de exponer los nombres o datos personales de quienes apoyan la exigencia.

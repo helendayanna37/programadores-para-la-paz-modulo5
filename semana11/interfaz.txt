@@ -1,0 +1,7 @@
+Para nuestra plataforma, diseño una interfaz muy limpia y fácil de usar desde el celular, pensada para que la comunidad participe sin enredarse. Primero, tendría un formulario sencillo para crear una nueva alerta territorial; solo pediría el título del problema (por ejemplo, "Obra del colegio abandonada"), una breve descripción de cómo nos afecta y la fecha.
+
+Luego, la pantalla principal sería un "Muro de Veeduría" donde aparezca la lista de todas las causas activas, para que los jóvenes y líderes puedan leerlas y estar al tanto de lo que pasa en nuestro territorio.
+
+Debajo de cada problemática, pondría un botón muy visible que diga "Respaldar esta exigencia", acompañado de un contador de apoyos que muestre el número de personas que ya se han sumado a la causa. 
+
+Toda la vista debe ser súper clara y directa, garantizando siempre que el contador sume los respaldos de forma completamente anónima, sin mostrar jamás la identidad ni los datos privados de quienes participan en el proceso.
